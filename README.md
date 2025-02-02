@@ -27,7 +27,7 @@ Ensure you have the following installed:
 ### Setup Instructions 🚀📝🔧
 1. 🛠️ Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pytorch-training-workshop.git
+   git clone https://github.com/AhemdMahmoud/PyTorch-Training-Workshop.git
    cd pytorch-training-workshop
    ```
 2. 🔹 (Optional) Create a virtual environment:
@@ -58,6 +58,5 @@ This repository is licensed under the MIT License. 🔓📖💼
 
 ## Contact 📩📞🌍
 For any questions or suggestions, feel free to reach out: 💬📧🔗
-- 🖥️ **GitHub**: [YourUsername](https://github.com/yourusername)
-- ✉️ **Email**: your.email@example.com
+- 🖥️ **GitHub**: [Ahmed Mahmoud1P](https://github.com/AhemdMahmoud)
 
